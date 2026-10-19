@@ -1,0 +1,40 @@
+# Training outputs
+results/
+screenshots/
+report/
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Large files (should not be committed; submitted separately)
+*.pt
+*.mp4
+*.zip
+demo clips/
+eval_videos/
+
+# Final submitted models (published)
+!/LAB5_M11415097_task*.pt
+
+# Report PDF / demo script
+*.pdf
+script.md

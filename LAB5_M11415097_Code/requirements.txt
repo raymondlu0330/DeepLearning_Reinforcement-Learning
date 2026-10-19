@@ -1,0 +1,14 @@
+# DLP Lab 5: Value-Based Reinforcement Learning
+# Final versions will be regenerated via `pip freeze > requirements.txt`
+# after all tasks are trained and evaluated.
+
+torch>=2.0.0
+torchvision
+numpy
+gymnasium==1.1.1
+ale-py>=0.10.0
+opencv-python
+wandb
+imageio
+imageio-ffmpeg
+matplotlib
